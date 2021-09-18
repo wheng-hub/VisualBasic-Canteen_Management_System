@@ -32,4 +32,4 @@ The modules of the system can be divided into three sides which are customer, ve
 - Announcement to vendor
 - Monthly Sales Report
 
-**Kindly download the pdf to view more details about the system.**
+**Kindly look into the pdf to view more details about the system.**
